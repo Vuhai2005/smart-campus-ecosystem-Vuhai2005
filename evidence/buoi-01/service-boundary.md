@@ -2,10 +2,10 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm:
-- Lớp:
-- Thành viên:
-- Service nhóm phụ trách:
+- Tên nhóm: 5B - Xây dựng dịch vụ tổng hợp và phân tích dữ liệu
+- Lớp: CNTT 17-12
+- Thành viên: Nguyễn Duy Hưng, Vũ Sơn Hải, Đặng Văn Bắc
+- Service nhóm phụ trách: 
 - Sản phẩm tổng thể của lớp:
 
 ## 2. Actor
