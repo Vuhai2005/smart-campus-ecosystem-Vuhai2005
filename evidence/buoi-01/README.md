@@ -4,12 +4,12 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
-- Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
-- Ghi chú:
+- Họ tên: Vũ Sơn Hải
+- Mã sinh viên: 1771020239
+- Nhóm: A5
+- Vai trò dự kiến trong nhóm: Leader
+- Hệ điều hành: Win 11
+- Ghi chú: Đã cài đặt Python 3.13.13, Docker Desktop, Git, Node.js và thiết lập môi trường FastAPI thành công.
 
 ## Các file minh chứng nên có
 
